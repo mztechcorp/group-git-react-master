@@ -203,7 +203,7 @@ Okay, last minute changes have come in and we need fix a small issue with the ap
 
 1. Commit your new changes and make a new pull request as you did before. Make sure you're merging into the correct base repo and branch! 
 
-1. At this point you should see that there is an issue and that the changes can not be merged into master until the merge conflit has been resolved. If you can not rememeber how to remedy this look back at our [git teams lesson](https://git.generalassemb.ly/sei-nyc-bees/git-teams) to look for a soulution!
+1. At this point you should see that there is an issue and that the changes can not be merged into master until the merge conflit has been resolved. If you can not rememeber how to remedy this look back at our [git teams lesson](https://github.com/mztechcorp/Git-teams) to look for a soulution!
 
 If you run into a **local** merge conflict, (you pulled code from the remote repo that conflicts with what you have locally), you will need to resolve that conflict within VScode. Local conflicts can be resolved just like the ones in github. 
 
